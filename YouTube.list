@@ -1,0 +1,13 @@
+# NAME: YouTube
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
+USER-AGENT,*youtube*
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,youtube*
+USER-AGENT,youtubemusic*
