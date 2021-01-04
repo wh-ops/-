@@ -1,0 +1,5 @@
+# NAME: YouTubeMusic
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*youtubemusic*
+USER-AGENT,com.google.ios.youtubemusic*
+USER-AGENT,youtubemusic*
